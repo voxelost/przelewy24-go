@@ -1,3 +1,3 @@
-module przelewy24-go
+module github.com/bopke/przelewy24-go
 
 go 1.17
